@@ -1,5 +1,5 @@
 ### Hi there, I'm Edwin van Wijngaarden 👋
-<h3 align="center">A web developer from Culemborg</h3>
+<h3 align="left">A web developer from Culemborg</h3>
 
 - 🔭 I’m currently working on [Lokalist](https://lokalist.nl)
 
