@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Lokalist](https://lokalist.nl)
 
 <p align="left">
-<a href="https://linkedin.com/in/rob-schilder-1676881b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rob-schilder-1676881b0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edwinvanwijngaarden/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-van-wijngaarden-linkedin" height="30" width="40" /></a>
 </p>
 
 
